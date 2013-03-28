@@ -1,0 +1,12 @@
+TweetAnalyzer program for CMSC491/HONR300
+
+Brandon Marcellus Adams
+Christopher Zink
+Stephanie Oliver
+
+This program should probably be run in an IDE like Eclipse, it is not meant to be a stand alone
+application. All output prints to the console, and can be copied to a flat text file for analysis
+in a separate application, such as Excel. Import into Ecplise, and run as the TweetAnalyzer App.
+Press Terminate to stop streaming, as it won't stop until you kill the app.
+
+Also included in the zip file is a class diagram.
